@@ -1,1 +1,0 @@
-# com.company.org.sample.package
